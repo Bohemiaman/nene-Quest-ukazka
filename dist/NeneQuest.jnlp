@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="NeneQuest.jar" size="165616" download="eager" />
+    <jar href="NeneQuest.jar" size="165614" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="neneengine.NeneQuest"  name="NeneQuest" />
   <update check="always"/>
